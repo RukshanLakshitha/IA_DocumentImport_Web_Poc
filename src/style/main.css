@@ -3,6 +3,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-rendering: optimizeLegibility;
+  height: 100%;
 }
 
 th.main-header{
@@ -24,4 +25,15 @@ th.main-header:first-child {
 th.main-header:last-child {
   border-top-right-radius:3px;
   border-right:none;
+}
+
+.box{
+  width: 190px;
+  height: 270px;
+  background-color: #343a45;
+}
+
+.previewImg Img{
+  width: 89%;
+  height: 100%;
 }

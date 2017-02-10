@@ -5,7 +5,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-th {
+th.main-header{
   color:#fff;
   background:#1b1e24;
   border-bottom:4px solid #9ea7af;
@@ -17,11 +17,11 @@ th {
   vertical-align:middle;
 }
 
-th:first-child {
+th.main-header:first-child {
   border-top-left-radius:3px;
 }
  
-th:last-child {
+th.main-header:last-child {
   border-top-right-radius:3px;
   border-right:none;
 }

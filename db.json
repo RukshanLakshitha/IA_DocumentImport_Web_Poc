@@ -38,111 +38,66 @@
   "Documents": [
     {
       "id": 1,
-      "filename": "",
-      "numberofpages": "    ",
-      "client": "Arizona",
-      "scannerseries": "a",
+      "filename": "Document 1",
+      "numberofpages": "2",
+      "client": "Axtest",
+      "scannerseries": "IF",
       "documenttype": "KN",
-      "scanningdate": "09/02/2017"
+      "scanningdate": "2017-02-09"
     },
     {
       "id": 2,
-      "filename": "      ",
-      "numberofpages": "a",
-      "client": "a",
+      "filename": "Document 2",
+      "numberofpages": "6",
+      "client": "99X",
       "scannerseries": "IF",
       "documenttype": "KN",
-      "scanningdate": "09/02/2017"
+      "scanningdate": "2017-02-09"
     },
     {
       "id": 3,
       "filename": "Document 3",
-      "numberofpages": "Sri Lanka",
-      "client": "Sri Lanka",
+      "numberofpages": "5",
+      "client": "GT",
       "scannerseries": "IF",
       "documenttype": "KN",
-      "scanningdate": "09/02/2017"
+      "scanningdate": "2017-02-09"
     },
     {
       "id": 4,
       "filename": "Document 4",
-      "numberofpages": "df",
-      "client": "789",
+      "numberofpages": "3",
+      "client": "Compello",
       "scannerseries": "IF",
       "documenttype": "KN",
-      "scanningdate": "09/02/2017"
+      "scanningdate": "2017-02-09"
     },
     {
       "id": 5,
       "filename": "Document 5",
-      "numberofpages": "Zimbabwe",
-      "client": " ",
+      "numberofpages": "2",
+      "client": "Compello",
       "scannerseries": "IF",
       "documenttype": "KN",
-      "scanningdate": "09/02/2017"
+      "scanningdate": "2017-02-09"
     },
     {
       "id": 6,
       "filename": "Document 6",
-      "numberofpages": "q\\qq",
-      "client": "789",
-      "scannerseries": "GGFGG",
-      "documenttype": "qwqwq",
-      "scanningdate": "h "
+      "numberofpages": "3",
+      "client": "Axtest",
+      "scannerseries": "IF",
+      "documenttype": "KN",
+      "scanningdate": "2017-02-09"
     },
     {
-      "id": 7,
+      "id":7,
       "filename": "Document 7",
-      "numberofpages": "74",
-      "client": "Andorra",
-      "scannerseries": " ",
-      "documenttype": "KN",
-      "scanningdate": "09/02/2017"
-    },
-    {
-      "id": 8,
-      "filename": "Document 8",
-      "numberofpages": "74",
-      "client": "789",
+      "numberofpages": "2",
+      "client": "99X",
       "scannerseries": "IF",
       "documenttype": "KN",
-      "scanningdate": "09/02/2017"
-    },
-    {
-      "id": 9,
-      "filename": "Document 9",
-      "numberofpages": "74",
-      "client": "789",
-      "scannerseries": "IF",
-      "documenttype": "KN",
-      "scanningdate": "09/02/2017"
-    },
-    {
-      "id": 10,
-      "filename": "Document 10",
-      "numberofpages": "74",
-      "client": "789",
-      "scannerseries": "IF",
-      "documenttype": "KN",
-      "scanningdate": "09/02/2017"
-    },
-    {
-      "id": 11,
-      "filename": "Document 11",
-      "numberofpages": "74",
-      "client": "789",
-      "scannerseries": "IF",
-      "documenttype": "KN",
-      "scanningdate": "09/02/2017"
-    },
-    {
-      "id": 12,
-      "filename": "Document 12",
-      "numberofpages": "74",
-      "client": "789",
-      "scannerseries": "IF",
-      "documenttype": "KN",
-      "scanningdate": "09/02/2017"
+      "scanningdate": "2017-02-09"
     }
   ]
 }

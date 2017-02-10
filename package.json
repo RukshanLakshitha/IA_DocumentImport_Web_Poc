@@ -13,6 +13,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-table": "^1.11.0",
+    "jquery": "^3.1.1"
+  },
   "bugs": {
     "url": "https://github.com/RukshanLakshitha/IA_DocumentImport_Web_Poc/issues"
   },
